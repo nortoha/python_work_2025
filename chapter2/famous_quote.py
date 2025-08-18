@@ -1,0 +1,1 @@
+print("Robert H. Schuller once said, 'Spectacular achievement is always preceded by unspectacular preparation.'")
