@@ -20,8 +20,7 @@ for coder in coders:
     else:
         #print(f"{coder.title()}, what's your favorite programming language?")
         fav = input(f"{coder.title()}, what's your favorite programming language?")
-        favorite_languages[co
-                           der] = fav
+        favorite_languages[coder] = fav
 
 # reprint the list and see our new friends
 for name, language in favorite_languages.items():
