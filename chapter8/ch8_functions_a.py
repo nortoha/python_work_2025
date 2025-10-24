@@ -9,4 +9,4 @@ def favorite_book(title):
 
 display_message()
 
-favorite_book('The Abstract Wild')
+favorite_book('Anne of Green Gables')
